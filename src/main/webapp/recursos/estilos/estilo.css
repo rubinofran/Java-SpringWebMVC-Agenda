@@ -1,0 +1,35 @@
+body{
+    background-color:lightskyblue;
+    text-align: center;
+}
+
+.inputDeAccion{
+    padding: 14px;
+    width: 100%;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.verde {
+    background-color: green;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+table {
+    font-weight: 600;
+    margin: 0 auto;
+}
+
+select {
+    height: 30px;
+    text-align: center;
+}
